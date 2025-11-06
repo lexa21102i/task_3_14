@@ -7,8 +7,13 @@ LICENSE: [MIT](/license.md)
 ---
 
 ### Содержание:
-1. ?
-2. [git add](/add.md)
+1. [git add](/add.md)
+2. [git status](/status.md)
+3. [git commit](/commit.md)
+4. [git init](/init.md)
+5. [git config](/config.md)
+6. [git clone](/clone.md)
+7. [git push](/push.md)
 
 
 ---
