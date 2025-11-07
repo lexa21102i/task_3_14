@@ -15,6 +15,12 @@ LICENSE: [MIT](/license.md)
 6. [git clone](/clone.md)
 7. [git push](/push.md)
 8. [git merge](/merge.md)
+9. [git fetch](/fetch.md)
+10. [git pull](/pull.md)
+11. [git log](/log.md)
+12. [git show](/show.md)
+13. [git reset](/reset.md)
+14. [git restore](/restore.md)
 
 
 ---
