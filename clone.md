@@ -6,5 +6,5 @@
 
 
 ```bash=
-git clone .
+git clone 
 ```

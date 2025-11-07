@@ -14,6 +14,7 @@ LICENSE: [MIT](/license.md)
 5. [git config](/config.md)
 6. [git clone](/clone.md)
 7. [git push](/push.md)
+8. [git merge](/merge.md)
 
 
 ---
